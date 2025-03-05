@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Amy Hwang! 👋
 
-<!--
-**yoonkyung-amy/yoonkyung-amy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💻 Technical Skills
+- **Languages**: Python (Pandas, NumPy, PySpark), R, SQL (MySQL), C++, C, MATLAB, Bash
+- **Tools & Platforms**: MS Office (Excel, Pivot Tables), Tableau, Linux, Jupyter, Git/GitHub, VS Code, R Studio, Postman, SAP HANA Cloud Tooling
+- **Other**: MS Application Insights, ServiceNow, Jira, Salesforce, Palantir Foundry
 
-Here are some ideas to get you started:
+# 📊 About Me
+- 🎓 Currently in a final term from the **University of Waterloo** with a major in **Statistics and Computational Mathematics**
+- 📈 Passionate about **big data, data analytics, predictive modeling, and statistical computing**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🌟 Interests
+- **Predictive Analytics**: Forecasting future risk using historical data
+- **Data Engineering**: Transforming and processing large datasets
+- **Machine Learning**: Exploring models for better predictions and insights
+- **P&C Insurance**: Understanding risk assessment and actuarial methods
+
+# 📫 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/yoonkyung-amy/) 
+- 📧 [Email](mailto:amy.ykhwang@gmail.com) 
