@@ -6,7 +6,7 @@
 - **Other**: MS Application Insights, ServiceNow, Jira, Salesforce, Palantir Foundry
 
 ## 📊 About Me
-- 🎓 Currently enrolled in a final term at the **University of Waterloo** with a major in **Statistics and Computational Mathematics**, minor in **Computing**.
+- 🎓 A recent graduate at the **University of Waterloo** with a major in **Statistics and Computational Mathematics**, minor in **Computing**.
 - 📈 Passionate about **big data, data analytics, predictive modeling, risk management and statistical computing**
 
 ## 🌟 Interests
